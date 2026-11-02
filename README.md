@@ -61,10 +61,10 @@ yourdomain.com/gift/sara
 
 That's it! 🎉
 
-Shared links use `/public/images/pic1.jpg` as their chat preview image. On Vercel,
-the deployment URL is detected automatically. For a custom domain, set
-`NEXT_PUBLIC_SITE_URL` to its full origin (for example, `https://giftsbyname.com`)
-so social platforms can resolve the preview image.
+Shared links use `/public/images/pic1.jpg` as their chat preview image. The site
+URL defaults to `https://happybirthdaayhabibyy.vercel.app`. For a different
+domain, set `NEXT_PUBLIC_SITE_URL` to its full origin so social platforms can
+resolve the preview image.
 
 ---
 
